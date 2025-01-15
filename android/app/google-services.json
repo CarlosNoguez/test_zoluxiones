@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554909053715",
+    "project_id": "test-zoluxiones",
+    "storage_bucket": "test-zoluxiones.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554909053715:android:40a484f7841357d80620e6",
+        "android_client_info": {
+          "package_name": "com.test_zoluxiones.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL5QkPnMeA7o0c5Q2292itais3iSegqag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
